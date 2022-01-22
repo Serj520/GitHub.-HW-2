@@ -1,0 +1,21 @@
+1. Summary:briaf description of problem
+2. Project: name of testing project
+3. Component: name of piece of testing product
+4. Version: version with error
+5. Severity: Five levels of severity:
+             - S1 Blocker
+	     - S2 Critical
+	     - S3 Major
+	     - S4 Minor
+	     - S5 Trivial
+6. Priority: deffect priority status:
+             - P1 High
+	     - P2 Medium
+	     - P3 Low
+7. Status: bug workflow & life cycle
+8. Author: bug report author
+9. Assigned to: person name to solve the problem
+10. Steps to reproduce
+11. Result
+12. Expected Result
+13. Attachment file.
